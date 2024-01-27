@@ -1,0 +1,22 @@
+body {
+    background-color: #212121;
+    color: #FFF;
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+}
+
+.item {
+    border-radius: 8px;
+    border: solid 2px;
+    width: fit-content;
+    height: min-content;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+    background-color: #000;
+}
+
+img {
+    border-radius: 8px;
+    border: solid 2px;
+}
